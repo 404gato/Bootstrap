@@ -1,0 +1,52 @@
+.vidtex{
+    font-size: 12px;
+    text-align: justify;
+}
+
+.textura{
+    background-image: url('https://i.imgur.com/W8i571O.png');
+}
+
+.bgjumbo{
+    background-image: url('https://i.imgur.com/QGyl8Ec.jpg');
+}
+
+.h1{
+    font-family: 'Turret Road', cursive;
+    text-shadow: 0.02em 0.09em 0.05em black
+}
+
+.sombra{
+    text-shadow: 0.0em 0.0em 0.6em black
+}
+
+.btn {
+    width: 70px;
+    height: 30px;
+    font-size: 10px;
+    color: #ffc107;
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+    padding: 0.5rem;
+    border: 1px solid #ffc107;
+    border-radius: 0.5rem;
+  }
+  
+  .btn:hover {
+    background: #ffc107;
+    color: black;
+  }
+
+  .btn.b-1:hover {
+    top: 0.2em;
+    box-shadow: 0 0.4em #c2bb11, 0 0.7em rgba(0, 0, 0, 0.4);
+  }
+  
+  .btn.b-1:active {
+    top: 0.4em;
+    box-shadow: 0 0.2em #c2bb11, 0 0.5em rgba(0, 0, 0, 0.4);
+  }
+
+  .footer{
+    background-image: url('https://i.imgur.com/vgSAyN8.png');
+  }
